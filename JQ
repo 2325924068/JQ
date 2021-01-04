@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/2325924068/JQ/jquery.js
